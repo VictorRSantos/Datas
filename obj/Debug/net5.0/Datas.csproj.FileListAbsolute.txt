@@ -1,0 +1,16 @@
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.exe
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.deps.json
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.runtimeconfig.json
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.runtimeconfig.dev.json
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.dll
+S:\Balta.io\Datas\bin\Debug\net5.0\ref\Datas.dll
+S:\Balta.io\Datas\bin\Debug\net5.0\Datas.pdb
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.csproj.AssemblyReference.cache
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.AssemblyInfoInputs.cache
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.AssemblyInfo.cs
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.csproj.CoreCompileInputs.cache
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.dll
+S:\Balta.io\Datas\obj\Debug\net5.0\ref\Datas.dll
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.pdb
+S:\Balta.io\Datas\obj\Debug\net5.0\Datas.genruntimeconfig.cache
